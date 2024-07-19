@@ -1,0 +1,5 @@
+/* Clase para definir el tamaño de las imágenes */
+.custom-img {
+  width: 180px;
+  height: 180px;
+}
